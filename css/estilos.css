@@ -5,18 +5,16 @@
 }
 
 body {
-    background: url('./imagenes/fondo.jpg')no-repeat;
-    background-size: cover;
+    
     font-family: sans-serif;
 }
 
 .box {
     width: 500px;
-    background: rgba(0,0,0,.4);
+    background-color:#D6D7F8;
     margin: 0 auto;
     margin-top: 2%;
     padding: 20px;
-    color: white;
     text-align: center;
     border-radius: 15px;
     
