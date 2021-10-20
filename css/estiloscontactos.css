@@ -1,0 +1,73 @@
+*{
+    border: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Mada', sans-serif;
+    
+}
+
+header {
+    width: 900px;
+    height: 80px;
+    background-color: #D6D7F8;
+    margin-left: auto;
+    margin-right:auto;
+    
+    
+}
+
+header ul li {
+    display: inline;
+    padding: 100px 100px 100px ;
+
+}
+
+header ul li a{
+    margin-top: 80px;
+    font-size: 20px;
+    
+}
+
+#formulario {
+    background-color: #D6D7F8;
+    width:610px;
+    height:450px ;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.mb-3{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top:20px;
+    margin-bottom: 0%;
+}
+
+.mb-4{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px; 
+   
+}
+.mb-5{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
+}
+
+.btnenviar {
+    height: 30px;
+    width: 100px;
+    background-color: blueviolet;
+    margin-left: 250px;
+   
+}

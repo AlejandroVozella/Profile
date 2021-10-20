@@ -5,13 +5,13 @@
 
 body {
     background-color: white;
-    font-family: sans-serif;
+    font-family: 'Mada', sans-serif;
 }
 
 header {
     width: 900px;
     height: 100px;
-    background-color: #6495ED;
+    background-color: #D6D7F8;
     margin-left: auto;
     margin-right:auto;
 }
@@ -34,19 +34,16 @@ header ul li {
 header ul li a{
     text-decoration: none;
 }
-a:hover {
-    background-color: yellowgreen;
-    color: beige;
-}
+
 
 h1 {
     width: 900px;
     height: 25px;
     text-align: center;
-    background-color:blue;
+    background-color:#9e9fa6;
     margin-left: auto;
     margin-right: auto;
-    color:white;
+    color:black;
 }
 
 hr {
@@ -54,7 +51,7 @@ hr {
     width: 900px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #FF7F50;
+    background-color: #D6D7F8;
     border-radius: 3px;
 }
 
@@ -132,7 +129,7 @@ hr {
     display: flex;
     width: 900px;
     height: 300px;
-    background-color: #FF7F50;
+    background-color: #D6D7F8;
     margin-left: auto;
     margin-right: auto;
 }
