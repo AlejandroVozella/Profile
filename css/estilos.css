@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Mada', sans-serif;
-    background-image: url("/imagenes/Imagenfondo.jpg");
+    background-image: url("../imagenes/Imagenfondo.jpg");
     
 }
 
