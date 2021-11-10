@@ -6,17 +6,20 @@
 
 body {
     font-family: 'Mada', sans-serif;
+    background-image: url("/imagenes/Imagenfondo.jpg");
     
 }
 
 .box {
-    width: 500px;
-    background-color:#D6D7F8;
+    width: 800px;
+    height: 600px;
+    background-color:#FFE0B2  ;
     margin: 0 auto;
-    margin-top: 2%;
+    margin-top: 1%;
     padding: 20px;
     text-align: center;
     border-radius: 15px;
+    opacity: 0.8;
     
 }
 
@@ -50,20 +53,23 @@ body {
 }
 
 .linkedin {
-    width: 10%;
+    width: 20%;
     
 }
 
-.box ul li {
-    display: inline-block;
-     
-}
+
 
 .box ul li a {
     color : white;
     font-size: 45px;
     padding: 5px 5px ;
-    display: block;
     transition: all .5s ease-in-out;
-    float: left;    
+    float: right;
+        
+}
+
+
+
+.list {
+    display: flex;
 }
